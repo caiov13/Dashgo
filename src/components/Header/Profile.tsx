@@ -14,7 +14,7 @@ export function Profile({ showProfileData = true }: ProfileProps) {
                     color="gray.300"
                     fontSize="small"
                     >
-                        aio_vinicius11111@hotmail.com
+                        caiov3d@outlook.com
                     </Text>
                 </Box>
             )}
